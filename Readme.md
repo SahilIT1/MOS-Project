@@ -45,7 +45,7 @@ This 2048 game is implemented using BashScript and offers a simple yet engaging 
 
 The repository contains the following files:
 - `game.sh`: The main BashScript file implementing the game logic.
-- `sounds/`: Directory containing sound files used in the game.
+- `sounds.wav`:  This sound plays once the user taps on any of the arrow keys while the game is on.
 - `scores.txt`: Text file to store player scores and highest score.
 
 ## How to Run
